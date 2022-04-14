@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.14.0",
+    "libraryName": "storytree",
+    "libraryId": "d0f16ae7-a37d-4802-997f-002da0f7f6d3",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "storytree",
+    "solutionShortDescription": "storytree description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
